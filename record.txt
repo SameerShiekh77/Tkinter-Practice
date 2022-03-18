@@ -1,0 +1,12 @@
+Name: sameer
+City: karachi
+Age: 21
+
+********************************
+
+Name: sameer
+City: lahore
+Age: 48
+
+********************************
+
